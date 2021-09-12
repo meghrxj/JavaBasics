@@ -1,4 +1,4 @@
-package Codemagnets.CM1;
+package CM1;
 
 public class DrumKit {
     boolean topHat = true;
