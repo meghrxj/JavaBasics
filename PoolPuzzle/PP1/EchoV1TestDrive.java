@@ -1,4 +1,4 @@
-package PoolPuzzle.PP1;
+package PP1;
 
 public class EchoV1TestDrive {
     
