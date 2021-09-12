@@ -1,4 +1,4 @@
-package Bethecompiler.BTC1;
+package BTC1;
 
 public class TapeDeck {
     boolean canRecord = false;
