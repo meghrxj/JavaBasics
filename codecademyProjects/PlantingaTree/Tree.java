@@ -1,4 +1,4 @@
-package codecademyProjects;
+package PlantingaTree;
 
 public class Tree {
     
