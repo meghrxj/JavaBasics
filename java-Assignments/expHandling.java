@@ -9,10 +9,9 @@ public class expHandling {
             System.out.println(marks[5]);
         } catch(Exception exception) {
             //do soemthing after catching
-            System.out.println("The name is Aman");
+            System.out.println("I catched the error");
         }
-        
-        
+        System.out.println("The name is Aman");
 
 
     }
